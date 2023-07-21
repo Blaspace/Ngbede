@@ -11,7 +11,7 @@ function Header() {
         <p>from Nigeria</p>
         <br />
         <a href="#contact">
-          <button>Get in toutch</button>
+          <button>Get in touch</button>
         </a>
       </div>
       <div className="header-image">
