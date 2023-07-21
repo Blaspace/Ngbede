@@ -533,7 +533,7 @@ a {
     width: 30%;
   }
   .project-list span {
-    width: 50%;
+    width: 100%;
   }
   .contact span {
     flex-direction: row;
