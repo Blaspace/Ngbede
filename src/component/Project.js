@@ -44,13 +44,13 @@ function Project() {
                     onClick={() => {
                       window.open(value.uri);
                     }}>
-                    Vist live
+                    Visit live
                   </button>
                   <button
                     onClick={() => {
                       window.open(value.git);
                     }}>
-                    Vist on github
+                    Visit on github
                   </button>
                 </span>
                 <br />
