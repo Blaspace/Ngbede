@@ -485,7 +485,7 @@ a {
     width: 250px;
     height: 400px;
     border-radius: 100px;
-    display: block;
+    display: flex;
   }
   .header-image img {
     border-radius: 100px;
