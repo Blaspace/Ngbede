@@ -538,7 +538,7 @@ a {
     font-size: 20px;
   }
   .all-skills div {
-    border-radius: 0;
+    border-radius: 10px;
     width: 27%;
   }
   .project {
