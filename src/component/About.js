@@ -15,19 +15,18 @@ function About() {
           <h3>A little about be</h3>
           <br />
           <p>
-            Hello, I'm James Ngbede Samuel, a passionate full stack developer
-            with a strong background in mathematics.
-            <br /> My passion for coding is fueled by the opportunity to bring
-            ideas to life through elegant and efficient code. I thrive in
-            collaborative environments, valuing teamwork and continuous
-            learning. By staying up-to-date with the latest industry trends and
-            best practices, I strive to deliver cutting-edge solutions that
-            exceed expectations.
-            <br />
-            <br /> Feel free to explore my portfolio to see some of my past
-            projects and get a glimpse of my capabilities. If you have an
-            exciting project in mind or would like to collaborate, I would love
-            to hear from you. Let's create something amazing together!"
+           Hey there, I'm James Ngbede Samuel, a full stack developer from Abuja, Nigeria.
+      With expertise in HTML/CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB,
+      I'm dedicated to crafting seamless web experiences that blend form and function.
+    <br/>
+      My journey started with a passion for problem-solving through code. From sleek user 
+    interfaces to robust backends, I bring ideas to life with precision and creativity. 
+      I'm committed to staying ahead of industry trends and embracing new challenges.
+      <br/>
+    When I'm not coding, I'm exploring emerging tech, enjoying a good book, or fueling my 
+      creativity.
+        <br/>
+        Let's connect and shape the future through technology.
           </p>
           <br />
           <span>
