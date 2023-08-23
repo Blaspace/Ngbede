@@ -20,7 +20,7 @@ function Footer() {
           onClick={() => handleNavigate("https://github.com/Blaspace")}
         />
       </span>
-            <p>+234 816 653 3430</P>
+          <p>+234 816 653 3430 </p>
     </footer>
   );
 }
