@@ -55,6 +55,7 @@ a {
   background: #ecf3ff;
   display: flex;
   box-shadow: #d2f1f6 2px 2px;
+  z-index: 2;
 }
 .nav ul {
   display: none;
