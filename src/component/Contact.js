@@ -43,6 +43,9 @@ function Contact() {
       <br />
       <form onSubmit={sendEmail} ref={form}>
         <br />
+    <p><b>+234 816 653 3430</b></p>
+    <p><b>ngbedejames415@gmail.com</b></p>
+    <br/>
         <span>
           <input
             type="text"
