@@ -12,7 +12,7 @@ function About() {
       <div className="about-body">
         <img src={profile} alt="profile" />
         <div>
-          <h3>A little about be</h3>
+          <h3>A little about me</h3>
           <br />
           <p>
            Hey there, I'm James Ngbede Samuel, a full stack developer from Abuja, Nigeria.
