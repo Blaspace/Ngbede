@@ -18,7 +18,7 @@ function Skills() {
       Icon: SiJavascript,
     },
     {
-      skill: "React js",
+      skill: "React/Redux js",
       about:
         " Experienced in building robust and scalable front-end applications using React, utilizing its component-based architecture and state management for efficient development.",
       Icon: FaReact,
