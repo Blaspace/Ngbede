@@ -1,6 +1,8 @@
 import React from "react";
 import myblog from "../public/blogApp.png";
 import event from "../public/Capture.PNG";
+import { AiFillGithub } from "react-icons/ai";
+import { CgWebsite } from "react-icons/cg";
 
 function Project() {
   const project = [
@@ -43,14 +45,24 @@ function Project() {
                   <button
                     onClick={() => {
                       window.open(value.uri);
-                    }}>
-                    Visit live
+                    }}
+                  >
+                    <CgWebsite
+                      size={27}
+                      style={{ padding: "0", marginRight: "5px" }}
+                    />{" "}
+                    visit live
                   </button>
                   <button
                     onClick={() => {
                       window.open(value.git);
-                    }}>
-                    Visit on github
+                    }}
+                  >
+                    <AiFillGithub
+                      size={27}
+                      style={{ padding: "0", marginRight: "5px" }}
+                    />{" "}
+                    <span>visit on gitHub</span>
                   </button>
                 </span>
                 <br />
