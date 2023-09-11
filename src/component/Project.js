@@ -51,7 +51,7 @@ function Project() {
                       size={27}
                       style={{ padding: "0", marginRight: "5px" }}
                     />{" "}
-                    visit live
+                    live
                   </button>
                   <button
                     onClick={() => {
@@ -62,7 +62,7 @@ function Project() {
                       size={27}
                       style={{ padding: "0", marginRight: "5px" }}
                     />{" "}
-                    <span>visit on gitHub</span>
+                    <span>gitHub</span>
                   </button>
                 </span>
                 <br />
