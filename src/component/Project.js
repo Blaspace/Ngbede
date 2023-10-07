@@ -1,11 +1,21 @@
 import React from "react";
-import myblog from "../public/blogApp.png";
-import event from "../public/Capture.PNG";
+import myblog from "../public/blogApp.jpg";
+import event from "../public/Capture.jpg";
+import web from "../public/webc.PNG";
 import { AiFillGithub } from "react-icons/ai";
 import { CgWebsite } from "react-icons/cg";
 
 function Project() {
   const project = [
+    {
+      name: "Web Development Website",
+      img: web,
+      about:
+        "The goal of this project is to create a unique, visually appealing, and informative website using Reactjs that would reflect both my technical expertise and my creative design sensibilities. I also integrated stripe into the application to showcase my ability to work with apis.",
+      uri: "https://company-cyi0.onrender.com",
+      git: "https://github.com/Blaspace/wed.git",
+      id: 3,
+    },
     {
       name: "My social",
       img: myblog,

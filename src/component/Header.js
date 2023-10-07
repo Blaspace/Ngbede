@@ -7,8 +7,8 @@ function Header() {
       <div className="header-text">
         <p> Hello,</p>
         <h1> I'm James Ngbede Samuel,</h1>
-        <span>a fullstack developer</span>
-        <p>from Nigeria</p>
+        <h3 data-text="a fullstack developer">a fullstack developer</h3>
+        <br />
         <br />
         <a href="#contact">
           <button>Get in touch</button>
